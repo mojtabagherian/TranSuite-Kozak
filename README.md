@@ -61,7 +61,6 @@ The script writes a CSV (e.g. `kozak_changed_results.csv`) containing:
 | AT1G01020.3   | 583       | CAGATGAG  | False     | 465       | GCAATGGC  | True      |
 
 
-## 📜 License
 MIT 
 
 
